@@ -72,7 +72,7 @@ public class Client {
                 // Receive classfile from server
                 try {
                     byteArrayStream.write(buffer, 0, in.read(buffer));
-                } catch (RuntimeException e) {
+                } catch (Exception e) {
                     System.out.println("Error receiving data from server");
                     socket.close();
                     socket = null;

@@ -9,7 +9,7 @@ public class Main {
         // Parse arguments
         CommandLine cmd = Settings.parseArgs(args);
         if (cmd == null) {
-            System.out.println("Error parsing arguments. Use '-help' to get a list of commands.");
+            System.out.println("Use '-help' to get a list of commands.");
             return;
         }
 
