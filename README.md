@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/cb350880cb958301f950327f10128471059a1fe3.png" alt="java-remote-class-loader" width="200px">
+  <img src="static/cb350880cb958301f950327f10128471059a1fe3.png" alt="java-remote-class-loader" width="500px">
   <br>
 </h1>
 
